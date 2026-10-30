@@ -1,3 +1,9 @@
+## Credits
+Original project by Rahan M, used as the starter code for the TatHack hackathon.
+
+## My Contributions
+Fixed bugs and updated the project for hackathon submission.
+
 # Blockchain App
 A web and terminal blockchain implementation in Python from scratch
 
